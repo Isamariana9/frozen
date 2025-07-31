@@ -1,0 +1,40 @@
+h1{
+    color:#84b6f7;
+    font-size: 54px;text-align: center;
+}
+p{
+    color: rgb(82, 125, 245);
+    font-size: 35px;
+    text-align: justify;
+    margin: 2cm;
+}
+body{
+    background-color: rgb(1, 39, 77);
+}
+h2{
+    color:  #84d3f7;
+    font-size: 42px;
+    text-align: justify;
+    margin-left: 2cm;
+}
+footer{
+    color: aliceblue;
+  }
+  .cabeçalho {
+    background-color: rgb(131, 193, 250);
+    color:rgb(51, 105, 252);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+     }
+  .cabeçalho-lista{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 36px;
+  }
+  .cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 36px;
+  }

@@ -1,0 +1,35 @@
+h1{
+    color:  #62b0fa;
+    font-size: 54px;
+    text-align: center;
+}
+p{
+    color:  rgb(156, 211, 248);
+    font-size: 35px;
+    text-align: justify;
+    margin: 2cm;
+}
+body{
+    background-color: rgb(1, 20, 49);
+}
+footer{
+    color: aliceblue;
+  }
+  .cabeçalho {
+    background-color: rgb(131, 193, 250);
+    color:rgb(99, 169, 202);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+     }
+  .cabeçalho-lista{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 36px;
+  }
+  .cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 36px;
+  }
